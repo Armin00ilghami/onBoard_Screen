@@ -64,9 +64,8 @@ dependencies {
     debugImplementation libs.androidx.ui.tooling
     debugImplementation libs.androidx.ui.test.manifest
 
-    //Lottie Animation
+    //Lottie Animation & View Pager
     implementation libs.accompanist.pager
-    //View Pager
     implementation libs.lottie.compose
 
 }
